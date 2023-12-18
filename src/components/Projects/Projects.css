@@ -1,0 +1,85 @@
+.projects-section {
+    display: flex;
+    padding: 112px 85px;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 80px;
+    margin-bottom: 50px;
+}
+.portfolio-container-box {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+.portfolio-container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 21.3px;
+}
+.portfolio-section-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 42.6px;
+    width: 100%;
+    margin-bottom: 20px;
+}
+.portfolio-section-img {
+    border-radius: 8px;
+    width: 100%;
+}
+
+.portfolio-section-card {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 32px;
+    flex: 1 0 0;
+
+    box-shadow: 0 0 32px 0 rgba(80, 79, 77, 0.34);
+    cursor: pointer;
+    border-radius: 12px;
+}
+.portfolio-section-card-content {
+    display: flex;
+    padding: 32px;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 32px;
+    align-self: stretch;
+    width: 400px;
+    height: 230px;
+}
+.portfolio-section-title {
+    color: var(--primary);
+}
+.portfolio-link {
+    text-decoration: none;
+    display: flex;
+    gap: 16px;
+    border-bottom: 1.33px solid var(--primary);
+    padding-bottom: 10.6px;
+    font-weight: 600;
+}
+.portfolio-section-card:hover path {
+    stroke: #006b6a;
+}
+.btn-github{
+    margin-bottom: 40px;
+    border-radius: 1rem;
+    width: 200px;
+    height: 60px;
+    font-family: "Karla", sans-serif;
+    font-weight: bold;
+    font-size: 16px;
+    text-align: center;
+    text-decoration: none;
+    transition: background-color 0.5s;
+    background-color: var(--secondary-grey);
+    box-shadow: 5px 6px 30px  rgba(5, 4, 4, 0.12);
+}
+.btn-github:hover{
+    background-color: var(--primary3);
+}

@@ -1,0 +1,45 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "../image/html2.png",
+      "title": "HTML"
+
+    },
+    {
+      "id": "2",
+      "src": "../image/css2.png",
+      "title": "CSS"
+
+    },
+    {
+      "id": "3",
+      "src": "../image/react.png",
+      "title": "React / JavaScript"
+
+    },
+    {
+      "id": "4",
+      "src": "../image/figma.png",
+      "title": "UI & UX Design"
+    }
+
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+
+      "title": "Final project Little Lemon Restaurant",
+      "description": "My final project for course Meta Front-End Developer. Main goal was to made booking table. But I added cart and payment by card ",
+      "link": "View In Github"
+    },
+    {
+      "id": "2",
+
+      "title": "Fotobook",
+      "description": "I made the fotobook with some images from Czech Republic",
+      "link": "View In Github"
+    }
+
+  ]
+}
