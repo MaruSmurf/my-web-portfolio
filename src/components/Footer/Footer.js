@@ -83,7 +83,7 @@ export default function Footer() {
                                 target="_blank"
                                 rel="noreferrer"
                             >
-                                <img src="../image/email.png" width={32} height={32}></img>
+                                <img src="/image/email.png" width={32} height={32}></img>
 
                             </a>
                         </li>

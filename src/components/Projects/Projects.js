@@ -12,7 +12,7 @@ export default function Projects() {
                 <div>
                     <button className="btn btn-github">
                         <a href="https://github.com/MaruSmurf" >
-                      <img src="../image/github.png" alt="logo-github" widht={40} height={40}></img>
+                      <img src="/image/github.png" alt="logo-github" widht={40} height={40}></img>
                       Visit My GitHub</a>
                     </button>
                 </div>

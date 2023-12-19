@@ -2,25 +2,25 @@
   "skills": [
     {
       "id": "1",
-      "src": "../image/html2.png",
+      "src": "/image/html2.png",
       "title": "HTML"
 
     },
     {
       "id": "2",
-      "src": "../image/css2.png",
+      "src": "/image/css2.png",
       "title": "CSS"
 
     },
     {
       "id": "3",
-      "src": "../image/react.png",
+      "src": "/image/react.png",
       "title": "React / JavaScript"
 
     },
     {
       "id": "4",
-      "src": "../image/figma.png",
+      "src": "/image/figma.png",
       "title": "UI & UX Design"
     }
 

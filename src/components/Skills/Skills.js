@@ -38,7 +38,7 @@ export default function MySkills() {
             <div className="skills-edu">
             <h2 className="skills-section-heading">Education</h2>
 
-                <img src="../image/certif.png" width={400} height={300}></img>
+                <img src="/image/certif.png" width={400} height={300}></img>
                 < a href="https://marusmurf.github.io/cvmar/">
                     <button className="btn btn-primary">More information in czech language</button>
                 </a>

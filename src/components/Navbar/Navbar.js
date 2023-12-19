@@ -83,7 +83,7 @@ export default function Navbar(){
                         href="mailto: marija.aks@seznam.cz/"
                         className="navbar-content"
                     >
-                        <img src="../image/email.png" width={32} height={32}></img>
+                        <img src="/image/email.png" width={32} height={32}></img>
                     </a></li>
 
             </ul>
